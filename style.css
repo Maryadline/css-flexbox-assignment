@@ -7,9 +7,9 @@ body{
     background-color: rgb(216, 211, 211);
 }
 main{
-    width: 50%;
+    max-width: 50%;
     margin: auto;
-    padding: 4em;
+    /* padding: 4em; */
     display: flex;
     /* flex-direction: grid; */
     justify-content: center;
