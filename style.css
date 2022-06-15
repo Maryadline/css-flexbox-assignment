@@ -38,19 +38,19 @@ p{
 .sedans{
     background-color: hsl(31, 77%, 52%);
     width: 250px;
-    height: 400px;
+    height: auto;
    
 }
 .suv{
     background-color: hsl(184, 100%, 22%);
     width: 250px;
-    height: 400px;
+    height: auto;
     
 }
 .luxury{
     background-color: hsl(179, 100%, 13%);
     width: 250px;
-    height: 400px;
+    height: auto;
    
 }
 button{
