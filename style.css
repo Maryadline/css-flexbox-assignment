@@ -11,6 +11,8 @@ body{
     justify-content: center;
     flex-wrap: wrap;
     margin: auto;
+    height: auto;
+    padding: 10em;
 
 
 }
@@ -55,7 +57,7 @@ p{
 }
 button{
     padding: 5px;
-    margin: 20px 0;
+    margin: 50px;
     border-radius: 10px;
     outline: none;
     border: none;
@@ -75,9 +77,19 @@ button{
     color: hsl(179, 100%, 13%);
 }
 
-button .btn1 .btn2 .btn3:hover{
-    background-color: rgb(150, 141, 141);
-    color: hsla(0, 0%, 100%, 0.75);
+.btn1:hover{
+    background-color: hsl(31, 77%, 52%);
+    color: hsl(0, 0%, 95%);
+    cursor: pointer;
+}
+.btn2:hover{
+    background-color: hsl(184, 100%, 22%);
+    color: hsl(0, 0%, 95%);
+    cursor: pointer;
+}
+.btn3:hover{
+    background-color: hsl(184, 100%, 22%);
+    color: hsl(0, 0%, 95%);
     cursor: pointer;
 }
 @media (max-width: 375px) {

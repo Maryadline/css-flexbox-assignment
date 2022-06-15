@@ -6,8 +6,10 @@
 body{
     background-color: rgb(26, 24, 24);
     display: flex;
+    flex-wrap: wrap;
     place-items: center;
-    min-height: 100vh;
+    height: auto;
+    padding: 10em;
 }
 main{
     display: grid;
