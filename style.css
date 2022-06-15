@@ -10,7 +10,7 @@ body{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    margin: auto;
+/*     margin: auto; */
     /* height: 100vh; */
 
     /* border-radius: 15px; */
