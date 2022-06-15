@@ -10,7 +10,7 @@ body{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-/*     margin: auto; */
+    margin: auto;
     /* height: 100vh; */
 
     /* border-radius: 15px; */
@@ -68,7 +68,7 @@ button{
     background-color: hsl(0, 0%, 95%);
 }
 button:hover{
-    background-color: rgb(150, 141, 141);
+    /* background-color: rgb(150, 141, 141); */
     color: hsla(0, 0%, 100%, 0.75);
     cursor: pointer;
 }
