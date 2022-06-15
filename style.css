@@ -11,9 +11,6 @@ body{
     justify-content: center;
     flex-wrap: wrap;
     margin: auto;
-    /* height: 100vh; */
-
-    /* border-radius: 15px; */
 
 
 }
@@ -82,4 +79,14 @@ button .btn1 .btn2 .btn3:hover{
     background-color: rgb(150, 141, 141);
     color: hsla(0, 0%, 100%, 0.75);
     cursor: pointer;
+}
+@media (max-width: 375px) {
+   body{
+    width: 100%;
+   }
+}
+@media (max-width: 1440px) {
+    body{
+        width: 100%;
+    }
 }
