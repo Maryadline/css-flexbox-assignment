@@ -44,3 +44,14 @@ main div{
     background-color: rgb(111, 0, 255);
     grid-area: e;
 }
+
+@media (max-width: 375px) {
+    body{
+     width: 100%;
+    }
+ }
+ @media (max-width: 1440px) {
+     body{
+         width: 100%;
+     }
+ }
