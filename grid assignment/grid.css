@@ -15,6 +15,7 @@ main{
     display: grid;
     grid-template-areas: 
     'a a a a b'
+    'a a a a b'
     'c c c d d'
     'c c c e e'
     ;
