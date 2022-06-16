@@ -11,6 +11,16 @@ body{
     height: auto;
     padding: 10em;
 }
+.top-btn{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10%;
+    height: 10%;
+    padding: 10px;
+    background-color: orangered;
+    color: rgb(8, 8, 8);
+}
+
 main{
     display: grid;
     grid-template-areas: 
